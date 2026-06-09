@@ -1,0 +1,59 @@
+BATTULA MURALI SURYA RAMESH
++91 7702272099 • msrbattula@gmail.com • linkedin.com/in/murali-battula • github.com/msr524 • Hyderabad, India | Open to Relocation
+n Certified by micro1 — Outstanding Performance in AI Interview | June 4, 2026
+PROFESSIONAL SUMMARY
+B.Tech Graduate in Computer Science & Engineering (AI & ML Specialization) with 7.9 CGPA. Proficient in Python, SQL, Machine Learning, NLP, Prompt
+Engineering, LangChain, RAG, and MS Excel. Built production-grade AI applications and published peer-reviewed research (IJRASET, Feb 2026). Proven
+ability to deliver data-driven insights through EDA, statistical modelling, and BI reporting. micro1-certified for outstanding AI interview performance (June
+2026). Targeting entry-level roles in Data Analytics, AI/ML Engineering, or Prompt Engineering.
+TECHNICAL SKILLS
+Programming & Databases: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL (MySQL), Git, GitHub
+AI / ML & GenAI: Machine Learning, Deep Learning, NLP, LLMs, Prompt Engineering, RAG, LangChain, ChromaDB, Gemini API, Hugging Face
+Data Analytics: EDA, Statistical Analysis, Hypothesis Testing, Regression, A/B Testing, ETL Pipelines, BI Reporting, Power BI (dashboard dev.), Tableau
+Tools: MS Excel (VLOOKUP, Pivot Tables), Streamlit, Jupyter Notebook, Google Colab, MySQL Workbench, Claude Code
+PROFESSIONAL EXPERIENCE
+Tata Consultancy Services (TCS) — Data Analyst Intern
+Jun 2024 – Aug 2024 | Remote
+• Conducted EDA & statistical analysis on enterprise-scale datasets (10,000+ rows) using Python and Advanced MS Excel to surface key operational trends.
+• Built and automated BI dashboards, reducing manual reporting effort by 40% and delivering weekly strategic insights to stakeholders.
+• Performed ETL pipeline processing — data cleaning, wrangling, null handling & format standardisation ensuring 100% data integrity using VLOOKUP and
+Excel conditional logic.
+• Applied hypothesis testing and correlation analysis to translate raw metrics into actionable business recommendations within an Agile workflow.
+KEY PROJECTS
+AI Resume Analyser — NLP ATS Scoring System
+Python | NLP | TF-IDF | Scikit-learn | Streamlit | Prompt Engineering
+2026 | github.com/msr524/-AI-resume-analyser
+• Built end-to-end NLP text analysis pipeline with tokenisation, TF-IDF vectorisation and predictive scoring to compute ATS compatibility and real-time Skill-Gap
+Analysis.
+• Reduced recruitment data processing time by 60%; deployed as a Streamlit BI application used by non-technical recruiters.
+Digital Clone AI — RAG Knowledge System
+Python | LangChain | ChromaDB | RAG | Gemini API | Vector Database | Semantic Search
+2026 | github.com/msr524/digital-clone
+• Architected a RAG data pipeline with vector embedding, semantic indexing and sub-second query retrieval on 50,000+ document chunks, achieving 90%
+contextual accuracy.
+• Integrated ChromaDB vector store with LangChain and Gemini API for intelligent, context-aware AI responses — production-grade GenAI pipeline.
+EDUCATION
+Avanthi Institute of Engineering & Technology (JNTUGV)
+B.Tech — Computer Science & Engineering (AI & ML Specialization) | CGPA: 7.9 / 10
+Government Junior College, Kotauratla
+Intermediate — MPC | 66%
+2022 – 2026
+2020 – 2022
+CERTIFICATIONS & ACHIEVEMENTS
+• n micro1 AI Interview Certification — micro1.ai Outstanding
+Performance — June 4, 2026 n
+• n Claude Code 101 Certification — Anthropic Agentic AI Coding
+with Claude Code — 2026 n
+• Claude 101 Generative AI Certification — Anthropic / AICTE
+Prompt Engineering & GenAI
+• Cloud GenAI Virtual Internship — AICTE GenAI on cloud
+infrastructure
+• GenAI Powered Data Analytics Job Simulation — Tata
+Consultancy Services Enterprise analytics with GenAI
+• Google AI-ML Virtual Internship — Google ML & AI fundamentals
+• SQL Certificate — HackerRank Verified SQL proficiency
+• Python & Java Programming — GeeksforGeeks Programming
+fundamentals
+• Research Publication: Peer-reviewed paper in IJRASET on AI-driven data implementations (Feb 2026).
+• Amazon ML Challenge 2025: Applied ML and predictive models to national-scale real-world datasets.
+• Competitive Programming: Solved 100+ problems on LeetCode — Arrays, Trees, Dynamic Programming, Graphs
